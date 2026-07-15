@@ -27,8 +27,8 @@
 - Top 10 Products based on Sales.
 - Customer Segment-wise Sales Analysis.
 - Category-wise Profit Analysis.
-
-  ## Business Questions
+ 
+## Business Questions
 1. Which product category generates the highest sales?
 2. Which region contributes the most to overall revenue?
 3. What are the monthly and quarterly sales trends?
