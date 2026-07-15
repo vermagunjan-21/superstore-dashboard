@@ -53,7 +53,7 @@
 - Provides actionable insights for revenue growth and customer targeting.
 
 ## Dashboard Preview
-https://github.com/vermagunjan-21/superstore-dashboard/blob/main/superstr.jpg
+https://github.com/vermagunjan-21/superstore-dashboard/blob/main/superstore.jpg
 
 ---
 **Created by:** Gunjan Verma  
